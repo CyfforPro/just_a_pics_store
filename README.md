@@ -1,2 +1,2 @@
-# only-a-pics-store
+# just-a-pics-store
 自用图床
